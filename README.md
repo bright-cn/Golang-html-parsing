@@ -1,6 +1,6 @@
 # 如何使用 Golang 解析 HTML？
 
-[![宣传图](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/)
+[![宣传图](https://github.com/bright-cn/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/)
 
 在 Go 中掌握 HTML 解析技巧，可使用 [Node Parser](https://www.npmjs.com/package/node-html-parser)、[Tokenizer](https://github.com/greim/html-tokenizer) 以及第三方工具，例如 Goquery、Colly 和 [Bright Data 的 Web Scraper](https://www.bright.cn/products/web-scraper)，以高效完成 [网页抓取](https://github.com/bright-cn/Awesome-Web-Scraping)。
 
