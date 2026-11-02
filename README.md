@@ -148,7 +148,7 @@ func main() {
 
 现在，你已经掌握了如何使用 Go 解析 HTML。你可以使用节点解析器遍历整个页面，也可以使用 Tokenizer 解析所需数据。如需更多功能，不妨探索第三方工具。你还可以查看我们的其他抓取指南：
 
-- [**Amazon**](https://github.com/bright-cn/LinkedIn-Scraper)
+- [**Amazon**](https://github.com/bright-cn/Amazon-Scraper)
 - [**LinkedIn**](https://github.com/bright-cn/LinkedIn-Scraper)
 - [**Google 地图**](https://github.com/bright-cn/Google-Maps-Scraper)
 - [**Google 新闻**](https://github.com/bright-cn/Google-News-Scraper)
